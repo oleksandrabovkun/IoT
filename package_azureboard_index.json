@@ -808,10 +808,10 @@
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://azureboard.azureedge.net/toolchain/openocd-linux64-0.10.0.tar",
-              "archiveFileName": "openocd-linux64-0.10.0.tar",
-              "checksum": "MD5:8faec7d75635e1473076607c78c9ddfb",
-              "size": "6768640"
+              "url": "https://netcologne.dl.sourceforge.net/project/openocd/openocd/0.10.0/openocd-0.10.0.tar.gz",
+              "archiveFileName": "openocd-0.10.0.tar.gz",
+              "checksum": "MD5:8971d16aee5c2642b33ee55fc6c86239",
+              "size": "6124274"
             },
             {
               "host": "i686-mingw32",
