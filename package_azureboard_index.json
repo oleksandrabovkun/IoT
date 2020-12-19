@@ -781,10 +781,10 @@
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-rm/gccarmnoneeabi532016q120160330linuxtar.bz2",
-              "archiveFileName": "gccarmnoneeabi532016q120160330linuxtar.bz2",
-              "checksum": "MD5:5a261cac18c62d8b7e8c70beba2004bd",
-              "size": "93090908"
+              "url": "https://armkeil.blob.core.windows.net/developer//sitecore/shell/-/media/Files/downloads/gnu-rm/5_4-2016q3/gcc-arm-none-eabi-5_4-2016q3-20160926-linux,-d-,tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-5_4-2016q3-20160926-linux,-d-,tar.bz2",
+              "checksum": "MD5:f7004b904541c09a8a0a7a52883c9e5b",
+              "size": "92820662"
             },
             {
               "host": "i686-pc-linux-gnu",
