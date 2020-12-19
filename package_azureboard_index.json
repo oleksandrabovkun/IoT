@@ -781,10 +781,10 @@
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://azureboard.azureedge.net/toolchain/gcc-arm-none-eabi-6-2017-q1-linux64.tar.gz",
-              "archiveFileName": "gcc-arm-none-eabi-6-2017-q1-linux64.tar.gz",
-              "checksum": "MD5:4ab6df0b9a61c3d88d2c5f10adccd563",
-              "size": "116228188"
+              "url": "https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-rm/gccarmnoneeabi532016q120160330linuxtar.bz2",
+              "archiveFileName": "gccarmnoneeabi532016q120160330linuxtar.bz2",
+              "checksum": "MD5:5a261cac18c62d8b7e8c70beba2004bd",
+              "size": "93090908"
             },
             {
               "host": "i686-pc-linux-gnu",
