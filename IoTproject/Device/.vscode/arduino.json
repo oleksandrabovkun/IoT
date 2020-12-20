@@ -2,6 +2,6 @@
     "board": "AZ3166:stm32f4:MXCHIP_AZ3166",
     "sketch": "device.ino",
     "output": "./.build",
-    "port": "/dev/tty.Bluetooth-Incoming-Port",
+    "port": "/dev/tty.usbmodem1443203",
     "configuration": "upload_method=OpenOCDMethod"
 }

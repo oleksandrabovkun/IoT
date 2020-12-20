@@ -2,7 +2,7 @@
 .build/
 
 # VS Code files
-c_cpp_properties.json
+#c_cpp_properties.json
 
 #IoT Hub Info
 azureconfig.json
