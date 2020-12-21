@@ -9,8 +9,6 @@
             "includePath": [
                 "~/Library/Arduino15/packages/AZ3166/tools/**",
                 "~/Library/Arduino15/packages/AZ3166/hardware/stm32f4/2.0.0/**",
-                "~/Library/Arduino15/packages/AZ3166/hardware/stm32f4/2.0.0/libraries/**",
-                "~/Library/Arduino15/packages/AZ3166/hardware/stm32f4/2.0.0/libraries/AzureIoT/src",
                 "~/Documents/Arduino/libraries/**",
                 "/Applications/Arduino.app/Contents/Java/tools/**",
                 "/Applications/Arduino.app/Contents/Java/libraries/**",
